@@ -2,6 +2,7 @@
 Proyecto de BackEnd de Python
 
 >>archivos en uso:
+
 index.html -> es la pagina principal del front, y esta conectada a las demas.
 
 registro_de_usuarios.html -> es la pagina encargada de contener el formulario de registros de usuarios, esta conectada a la pagina principal.
@@ -15,7 +16,8 @@ app.py -> es la aplicacion de python, esta incompleta y requiere revision
 estilo.css -> archivo que contiene elementos esteticos
 
 
->>archivos en desuso:
+>>archivos no implementados:
+
 index_b.html -> pagina de entrega de comentarios realizada para la pagina del proyecto frontend del grupo 25.
 
 datos.php -> esta conectada a index_b.html pero no se encuentra implementada actualmente.
